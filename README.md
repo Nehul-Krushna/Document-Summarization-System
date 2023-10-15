@@ -36,8 +36,8 @@ To set up and run the Document Summarization System locally, follow these steps:
    git clone https://github.com/Nehul-Krushna/Document-Summarization-System.git
 
 ## Usage
-1.Access the web interface by opening a web browser and visiting http://127.0.0.1:5000.
-2.Enter or paste a text document into the input textarea.
-3.Click the "Summarize" button to generate a summary of the document.
-4.The generated summary will be displayed below the input area.
+1.Access the web interface by opening a web browser and visiting http://127.0.0.1:5000.  
+2.Enter or paste a text document into the input textarea.  
+3.Click the "Summarize" button to generate a summary of the document.  
+4.The generated summary will be displayed below the input area.  
   
